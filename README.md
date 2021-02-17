@@ -5,7 +5,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... Acoustic source localization and Water level indicator
+- 🔭 I’m currently working on ...
+-  Acoustic source localization and Water level indicator
 - 🌱 I’m currently learning ROS
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
