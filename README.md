@@ -9,4 +9,4 @@
 
 
 ### 📈 My GitHub Stats:
-<p align="center"> <img align="center" alt="Bhaskar's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Bhaskar-R&show_icons=true&count_private=true&theme=gotham&hide_border=false" />
+<p align="center"> <img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=thilaksaiK&show_icons=true&count_private=true&theme=gotham&hide_border=false" />
